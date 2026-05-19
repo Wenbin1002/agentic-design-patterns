@@ -57,3 +57,5 @@ __pycache__/
 venv/
 .env
 .workspace
+
+.claude
